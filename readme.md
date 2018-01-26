@@ -2,7 +2,7 @@
 
 Ready to use a free bootstrap-4 HTML template
 
-## [Demo](http://themes.coderomeos.org/agog/)
+## [Demo](https://www.coderomeos.org/themes/agog/)
 
 ## About Agog
 

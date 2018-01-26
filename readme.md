@@ -14,7 +14,7 @@ A simple, clean, fully responsive and free Bootstrap 4 based HTML template. The 
 * [AOS](https://michalsnik.github.io/aos/) - Animate on Scroll Library
 * [Parallax.js](http://pixelcog.github.io/parallax.js/) - Simple Parallax Scrolling
 * [Tilt.js](https://gijsroge.github.io/tilt.js/) - Parallax hover tilt effect
-* [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/) - Parallax hover tilt effect
+* [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/) - Owl carousel
 
 ## Authors
 

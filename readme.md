@@ -18,7 +18,7 @@ A simple, clean, fully responsive and free Bootstrap 4 based HTML template. The 
 
 ## Authors
 
-* Gautam Kumar - [Twiter](https://twitter.com/r8here)
+* Gautam Kumar - [@r8here](https://twitter.com/r8here/)
 
 ## License
 
